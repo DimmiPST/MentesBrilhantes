@@ -44,13 +44,14 @@ Nestas partes, o código base, a lógica principal e a criatividade vieram 100% 
 
 Certifique-se de ter o compilador **GCC** instalado no seu sistema.
 
-### No Linux (ex: Linux Mint / Ubuntu):
-Abra o terminal na pasta do projeto e execute:
+### No Linux (ex: Linux Mint / Ubuntu) e Windows(10/11):
+Linux (Abra o terminal na pasta do projeto e execute):
 ```bash
 gcc main.c prologo.c lovelace.c joan_clarke.c grace_hopper.c hamilton.c carol_shaw.c -o jogo_temporal
-./jogo_temporal```
+./jogo_temporal
 
-No Windows (Usando Prompt de Comando / PowerShell)
+No Windows (Usando Prompt de Comando / PowerShell):
+
 Pré-requisito: Certifique-se de ter o MinGW (GCC para Windows) instalado e configurado nas Variáveis de Ambiente do sistema.
 
 Abra o Prompt de Comando (CMD) ou o PowerShell e navegue até a pasta do projeto utilizando o comando cd (exemplo: cd C:\caminho\para\a\pasta).
