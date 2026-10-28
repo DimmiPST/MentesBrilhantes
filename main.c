@@ -3,6 +3,7 @@
 #include <stdbool.h>
 #include <time.h>
 #include <ctype.h>
+#include "jogo.h"
 
 // --- TRUQUE MULTIPLATAFORMA PARA PAUSAS E TELA ---
 #ifdef _WIN32

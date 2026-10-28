@@ -3,7 +3,7 @@
 #include <string.h>
 #include <ctype.h>
 #include <unistd.h> // Necessário para o sleep() no Linux
-
+#include "jogo.h"
 #define TAM_NOME 100
 
 void limparTelaPrólogo(void) {

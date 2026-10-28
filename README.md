@@ -50,7 +50,7 @@ Linux (Abra o terminal na pasta do projeto e execute):
 gcc main.c prologo.c lovelace.c joan_clarke.c grace_hopper.c hamilton.c carol_shaw.c -o jogo_temporal
 ./jogo_temporal
 
-No Windows (Usando Prompt de Comando / PowerShell):
+### No Windows (Usando Prompt de Comando / PowerShell):
 
 Pré-requisito: Certifique-se de ter o MinGW (GCC para Windows) instalado e configurado nas Variáveis de Ambiente do sistema.
 
